@@ -1,0 +1,8 @@
+embeddings {
+  tensor_name: "token_embedding/token_embedding_weights:0"
+  metadata_path: "output/example_unannotated_texts_2020-05-29_09-51-52-698426/model/tensorboard_metadata_tokens.tsv"
+}
+embeddings {
+  tensor_name: "character_embedding/character_embedding_weights:0"
+  metadata_path: "output/example_unannotated_texts_2020-05-29_09-51-52-698426/model/tensorboard_metadata_characters.tsv"
+}
