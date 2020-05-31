@@ -1,0 +1,25 @@
+hiệp file 0 4 O O
+bạn file 5 8 O O
+muốn file 9 13 O O
+mua file 14 17 O O
+thứ file 18 21 O O
+gì file 22 24 O O
+để file 25 27 O O
+ăn file 28 30 O O
+cùng file 31 35 O O
+với file 36 39 O O
+tôi file 40 43 O O
+không file 44 49 O O
+mình file 50 54 O O
+hẹn file 55 58 O O
+em file 59 61 O O
+ở file 62 63 O O
+đường file 64 69 O O
+Nguyễn-Chí-Thanh file 70 86 O O
+vào file 87 90 O O
+4 file 91 92 O O
+giờ file 93 96 O O
+chiều file 97 102 O O
+mai file 103 106 O O
+nhé file 107 110 O O
+
